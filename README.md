@@ -64,5 +64,7 @@ DrumKitMobile is licensed under the [MIT License](LICENSE). See the [LICENSE](LI
 Developer: [ugurde98](https://github.com/ugurde98)
 
 Project Link: [https://github.com/ugurde98/DrumKitMobile](https://github.com/ugurde98/DrumKitMobile)
+
+Apk Link: [Download](https://expo.dev/artifacts/eas/dEYFaCjpLZFsJ9bpzSxqth.apk)
 ```
 
